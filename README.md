@@ -1,5 +1,5 @@
 
-title: HUMAN COMPANION 
+page.title: HUMAN COMPANION 
 
 ### HUMANOID ROBOT
 <p>One of the key driving forces behind the development of humanoid robots as companions is the desire to address social isolation, a prevalent issue in today's fast-paced and digitally connected yet often lonely world. These robots, with their human-like appearance and interactive capabilities, offer a unique solution to combating feelings of loneliness, particularly among the elderly or those with limited social interactions.</p>
