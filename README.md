@@ -1,7 +1,5 @@
-
 ---
-layout: default
-title: HUMAN COMPANION 
+title: "HUMAN COMPANION"
 ---
 
 ### HUMANOID ROBOT
