@@ -1,6 +1,6 @@
 
 
-### HUMANOID ROBOT
+#### HUMANOID ROBOT
 <p>One of the key driving forces behind the development of humanoid robots as companions is the desire to address social isolation, a prevalent issue in today's fast-paced and digitally connected yet often lonely world. These robots, with their human-like appearance and interactive capabilities, offer a unique solution to combating feelings of loneliness, particularly among the elderly or those with limited social interactions.</p>
 <p>Imagine a humanoid robot designed to engage in meaningful conversations, share jokes, and respond to human emotions. Such companions can provide a sense of connection and reduce feelings of isolation. For the elderly, who may experience social isolation due to various factors, having a humanoid robot as a companion could offer not only conversation but also assistance with daily tasks, thereby enhancing their overall quality of life.</p>
 <p>Companion robots are not just talkers; they're gamers too! Discover the exciting world of interactive games designed specifically for human-robot interaction. Whether it's solving puzzles together or playing virtual board games, these robots add a new dimension to our gaming experiences.</p>
@@ -10,7 +10,7 @@
 ![humanoid](blog_image/humanoid_one.jpeg)
 
 
-### MENTAL HEALTH SUPPORT
+#### MENTAL HEALTH SUPPORT
 
 <p>In recent years, the integration of human companion robots into mental health care has garnered significant attention. These technologically advanced companions offer a range of benefits that contribute to the well-being of individuals facing mental health challenges.</p>
 <p>The therapeutic benefits of human companion robots extend to mental health settings. Individuals facing conditions such as depression, anxiety, or post-traumatic stress disorder (PTSD) have experienced a positive impact through interactions with robots. The robot serves as a source of comfort, providing emotional support and a non-judgmental outlet for expression.
