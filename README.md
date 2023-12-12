@@ -37,5 +37,7 @@ Highlighting instances where human musicians collaborate with their robotic coun
 While these robots dazzle us with their musical abilities, they also face challenges and limitations. Discussing the hurdles in programming, adaptability to different musical genres, and the quest for emotional expression, this section provides insights into the ongoing innovations shaping the future of robotic musicianship.</p>
 <p>Concluding the blog with a glimpse into the future, this section speculates on the evolving role of humanoid robots as entertainers. As technology continues to advance, what new horizons might we witness in the realm of robotic musicianship? The blog wraps up by inviting readers to ponder the potential for an era where robots become integral members of orchestras and ensembles.</p>
 
+![entertainment](blog_image/entertainment_one.jpg)
+
 
  
