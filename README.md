@@ -23,4 +23,6 @@ For individuals facing challenges with daily routines, human companion robots ca
 <p>While the benefits are evident, it's essential to address ethical considerations surrounding the use of human companion robots in mental health care. Striking a balance between technology-driven support and human intervention is crucial to ensure a holistic and ethical approach to mental health support.</p>
 <p>Human companion robots represent a promising frontier in mental health support, offering personalized, empathetic assistance to individuals facing mental health challenges. While ethical considerations and challenges persist, the potential impact on alleviating loneliness, reducing stress, and enhancing overall well-being positions these robots as valuable allies in the broader landscape of mental health care.</p>
 
+![mentalhealth](blog_image/mentalhealth_one.jpg)
+
  
