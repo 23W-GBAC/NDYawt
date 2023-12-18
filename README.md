@@ -54,7 +54,7 @@ Paro has also made inroads into educational settings, assisting children with sp
 In conclusion, the Paro robot has emerged as a groundbreaking innovation with far-reaching implications for healthcare, education, and mental health. Its ability to provide companionship, alleviate stress, and enhance overall well-being showcases the potential of technology to positively impact human lives. As we continue to explore the intersection of robotics and human care, Paro stands as a shining example of how technology can bridge gaps, bring joy, and offer support in unexpected and heartwarming ways.</p>
 <p> Source: Chatgpt</p>
 
-![Paro]()
+![Paro](blog_image/paro_one.jpg)
 
 
 
