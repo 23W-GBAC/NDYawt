@@ -1,0 +1,32 @@
+name: Count Words in Blog
+
+on:
+  push:
+    branches:
+      - main  # Change this to your main branch name
+
+jobs:
+  count-words:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.x  # Replace 'x' with your desired Python version
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4
+
+    - name: Count words in blog
+      run: |
+        python .github/scripts/count_words.py  # Replace with your actual script path
+      env:
+        REPO_OWNER: ${{ github.repository_owner }}
+        REPO_NAME: ${{ github.event.repository.name }}
+        FILE_PATH: 'path/to/your/blog/file.html'  # Replace with your actual file path
