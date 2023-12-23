@@ -1,0 +1,23 @@
+name: Update Content
+
+on:
+  schedule:
+    - cron: '0 12 * * *'  # Set your desired cron schedule
+
+jobs:
+  update_content:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Set up Python
+      uses: actions/setup-python@v3
+      with:
+        python-version: 3.x
+
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Run Python script
+      run: |
+        pip install -r requirements.txt  # If you have any dependencies
+        python update_content_script.py  # Replace with your script name
