@@ -39,8 +39,8 @@ def count_words_in_blog(repo_owner, repo_name, file_path):
         print(f"Error: {e}")
 
 if _name_ == "_main_":
-    repo_owner = os.getenv("REPO_OWNER")
-    repo_name = os.getenv("REPO_NAME")
-    file_path = os.getenv("FILE_PATH")
+    repo_owner = os.getenv("23W-GBAC")
+    repo_name = os.getenv("NDYawt")
+    file_path = os.getenv("README.md")
 
-    count_words_in_blog(repo_owner, repo_name, file_path)
+    count_words_in_blog(23W-GBAC, NDYawt, README.md)
