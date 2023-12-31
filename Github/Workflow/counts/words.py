@@ -22,9 +22,9 @@ def text_from_html(body):
     visible_texts = filter(tag_visible, texts)
     return ' '.join(visible_texts)
 
-def count_words_in_blog(repo_owner, repo_name, file_path):
+def count_words_in_blog(23W-GBAC, NDYawt, README.md):
     try:
-        raw_url = f'https://raw.githubusercontent.com/{repo_owner}/{repo_name}/main/{file_path}'
+        raw_url = f'https://raw.githubusercontent.com/{23W-GBAC}/{NDYawt}/main/{README.md}'
         response = requests.get(raw_url)
         response.raise_for_status()
 
